@@ -1,0 +1,7 @@
+<!-- TODO-CONTENT: sustituir por imagen real del local. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Barbería Tres Sillones">
+  <rect width="1200" height="630" fill="#111111"/>
+  <rect x="72" y="72" width="1056" height="486" fill="none" stroke="#B08D57" stroke-width="3"/>
+  <text x="600" y="305" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="64" font-weight="700" text-anchor="middle">Barbería Tres Sillones</text>
+  <text x="600" y="370" fill="#B08D57" font-family="Inter, sans-serif" font-size="26" font-weight="500" text-anchor="middle">CONCEPCIÓN · MADRID</text>
+</svg>
