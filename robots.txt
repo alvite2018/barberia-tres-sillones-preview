@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Disallow: /#/panel-leads-9f3k
